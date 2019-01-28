@@ -7,5 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "d3": "^5.7.0",
+    "http-server": "^0.11.1",
+    "vue": "^2.5.22"
+  }
 }
