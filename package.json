@@ -12,5 +12,9 @@
     "d3": "^5.7.0",
     "http-server": "^0.11.1",
     "vue": "^2.5.22"
+  },
+  "devDependencies": {
+    "eslint": "^5.12.1",
+    "eslint-config-google": "^0.11.0"
   }
 }
